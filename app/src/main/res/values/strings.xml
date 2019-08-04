@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="email_hint">Enter Your Email</string>
+    <string name="password_hint">Enter Your Password</string>
+    <string name="Signin_with_email_btn">Sign in With Email</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="email">Email</string>
+    <string name="firest_last_name"><![CDATA[Firest & last Name]]></string>
+    <string name="save">Save</string>
+    <string name="deal_title">Deal Title</string>
+    <string name="deal_price">Deal Price</string>
+    <string name="deal_description">Deal Description</string>
+    <string name="select_image">Select Image</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="delete_deal">Delete</string>
+</resources>
